@@ -1,0 +1,12 @@
+﻿  Application.cpp
+Application.cpp(23): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+Application.cpp(74): warning C4100: 'argv': unreferenced formal parameter
+Application.cpp(74): warning C4100: 'argc': unreferenced formal parameter
+  main.cpp
+  Generating code
+  239 of 1135 functions (21.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    61 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example_glfw_opengl3.vcxproj -> E:\project\NeuralMaterial\imgui_example\example_glfw_opengl3\Release\example_glfw_opengl3.exe
+  example_glfw_opengl3.vcxproj -> E:\project\NeuralMaterial\imgui_example\example_glfw_opengl3\Release\example_glfw_opengl3.pdb (Full PDB)
